@@ -1,6 +1,25 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
 h1 {
 
     color: blue;
 
 }
 
+h2{
+
+    color: rgb(7, 212, 86);
+}
+
+li{
+    background-color: yellow;
+    color: blue;
+}
+
+p{
+    color: darkslategray;
+}
